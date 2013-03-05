@@ -8,4 +8,5 @@
 
 echo 'this is an php file m2';
 echo 'this is an php file for b1 m1';
-echo 'this is a word in 2012 master';
+
+echo 'this is a word in new 2012 master';
